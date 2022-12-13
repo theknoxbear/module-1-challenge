@@ -6,7 +6,7 @@ This project is designed to show how HTML and CSS work together and provide the 
 
 Completing this project is essential to understand not only HTML and CSS but how to use Github. During the course of the project I was able to push and pull requests as well as learning how to build a new repository.
 
-![Screenshot of refactored HTML with comments](https://github.com/theknoxbear/module-1-challenge/blob/main/assets/images/image1.PNG
+![Screenshot of refactored HTML with comments](https://github.com/theknoxbear/module-1-challenge/blob/main/assets/images/image1.PNG)
 ![Screenshot of refactored CSS with comments](https://github.com/theknoxbear/module-1-challenge/blob/main/assets/images/Image2.PNG)
 
 
